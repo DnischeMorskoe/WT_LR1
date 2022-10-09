@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b9e8cea-876b-4381-94da-37e896dece02" name="Changes" comment="task 1">
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task2/Belonging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task3/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task3/Task3.java" afterDir="false" />
+    <list default="true" id="2b9e8cea-876b-4381-94da-37e896dece02" name="Changes" comment="task 2 and 3">
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task4/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task5/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task6/BivariateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task6/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task7/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task7/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task8/ArrayInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task8/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task9/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task9/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task9/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665319396810</updated>
-      <workItem from="1665319398311" duration="2960000" />
+      <workItem from="1665319398311" duration="9175000" />
+      <workItem from="1665332005571" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1665320616376</created>
@@ -70,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665320740412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task 2 and 3">
+      <created>1665322615268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665322615268</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task 2 and 3">
+      <created>1665322632327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665322632327</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1" />
+    <MESSAGE value="task 2 and 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2 and 3" />
   </component>
 </project>
