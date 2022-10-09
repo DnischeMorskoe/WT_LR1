@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LR1:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b9e8cea-876b-4381-94da-37e896dece02" name="Changes" comment="task 2 and 3">
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task4/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task5/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task6/BivariateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task6/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task7/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task7/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task8/ArrayInsertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task8/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task9/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task9/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task9/Task9.java" afterDir="false" />
+    <list default="true" id="2b9e8cea-876b-4381-94da-37e896dece02" name="Changes" comment="tasks 4-9">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/LR1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task12/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task13/ProgrammerBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task15/AuthorTitleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task15/AuthorTitlePriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task15/TitleAuthorComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsuir/tozik/lab1/task15/TitleComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +42,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665319396810</updated>
       <workItem from="1665319398311" duration="9175000" />
-      <workItem from="1665332005571" duration="927000" />
+      <workItem from="1665332005571" duration="3943000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1665320616376</created>
@@ -95,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665322632327</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tasks 4-9">
+      <created>1665333657489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665333657489</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +128,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="task 1" />
     <MESSAGE value="task 2 and 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2 and 3" />
+    <MESSAGE value="tasks 4-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks 4-9" />
   </component>
 </project>
